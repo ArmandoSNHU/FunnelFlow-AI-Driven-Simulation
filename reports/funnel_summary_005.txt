@@ -1,0 +1,10 @@
+FunnelFlow Funnel Summary Report
+Generated Automatically
+
+Step                 | Number of Users
+---------------------+----------------
+visit_site           | 100
+view_product         | 67
+add_to_cart          | 27
+start_checkout       | 4
+complete_purchase    | 1
